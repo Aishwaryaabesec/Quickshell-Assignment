@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Aishwaryaabesec/Quickshell/static/css/main.089d6a5c.css",
-    "main.js": "/Aishwaryaabesec/Quickshell/static/js/main.d1ca33c1.js",
-    "static/js/453.f0f88b0d.chunk.js": "/Aishwaryaabesec/Quickshell/static/js/453.f0f88b0d.chunk.js",
-    "index.html": "/Aishwaryaabesec/Quickshell/index.html",
-    "main.089d6a5c.css.map": "/Aishwaryaabesec/Quickshell/static/css/main.089d6a5c.css.map",
-    "main.d1ca33c1.js.map": "/Aishwaryaabesec/Quickshell/static/js/main.d1ca33c1.js.map",
-    "453.f0f88b0d.chunk.js.map": "/Aishwaryaabesec/Quickshell/static/js/453.f0f88b0d.chunk.js.map"
+    "main.css": "/Quickshell/static/css/main.089d6a5c.css",
+    "main.js": "/Quickshell/static/js/main.01e267c6.js",
+    "static/js/453.f0f88b0d.chunk.js": "/Quickshell/static/js/453.f0f88b0d.chunk.js",
+    "index.html": "/Quickshell/index.html",
+    "main.089d6a5c.css.map": "/Quickshell/static/css/main.089d6a5c.css.map",
+    "main.01e267c6.js.map": "/Quickshell/static/js/main.01e267c6.js.map",
+    "453.f0f88b0d.chunk.js.map": "/Quickshell/static/js/453.f0f88b0d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.089d6a5c.css",
-    "static/js/main.d1ca33c1.js"
+    "static/js/main.01e267c6.js"
   ]
 }
