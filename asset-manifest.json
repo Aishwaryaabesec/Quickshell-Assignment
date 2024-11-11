@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Aishwaryaabesec/Quickshell-Assignment/static/css/main.089d6a5c.css",
-    "main.js": "/Aishwaryaabesec/Quickshell-Assignment/static/js/main.71b8d283.js",
-    "static/js/453.f0f88b0d.chunk.js": "/Aishwaryaabesec/Quickshell-Assignment/static/js/453.f0f88b0d.chunk.js",
-    "index.html": "/Aishwaryaabesec/Quickshell-Assignment/index.html",
-    "main.089d6a5c.css.map": "/Aishwaryaabesec/Quickshell-Assignment/static/css/main.089d6a5c.css.map",
-    "main.71b8d283.js.map": "/Aishwaryaabesec/Quickshell-Assignment/static/js/main.71b8d283.js.map",
-    "453.f0f88b0d.chunk.js.map": "/Aishwaryaabesec/Quickshell-Assignment/static/js/453.f0f88b0d.chunk.js.map"
+    "main.css": "/Aishwaryaabesec/Quickshell/static/css/main.089d6a5c.css",
+    "main.js": "/Aishwaryaabesec/Quickshell/static/js/main.d1ca33c1.js",
+    "static/js/453.f0f88b0d.chunk.js": "/Aishwaryaabesec/Quickshell/static/js/453.f0f88b0d.chunk.js",
+    "index.html": "/Aishwaryaabesec/Quickshell/index.html",
+    "main.089d6a5c.css.map": "/Aishwaryaabesec/Quickshell/static/css/main.089d6a5c.css.map",
+    "main.d1ca33c1.js.map": "/Aishwaryaabesec/Quickshell/static/js/main.d1ca33c1.js.map",
+    "453.f0f88b0d.chunk.js.map": "/Aishwaryaabesec/Quickshell/static/js/453.f0f88b0d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.089d6a5c.css",
-    "static/js/main.71b8d283.js"
+    "static/js/main.d1ca33c1.js"
   ]
 }
